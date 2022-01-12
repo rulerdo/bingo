@@ -22,7 +22,7 @@ Ejecutar el archivo desde la terminal
 
     python3 bingo.py
 
-Para jugar puedes usar las tarjetas que se encuentran en 2 archivos de muestra dentro del directorio de tarjetas (12 en total), en caso de querer nuevas tarjetas, el script tambien tien la opcion para generar nuevas con numeros aleatorios, para esto hay que ejecutar el mismo archivo pero con el argumento -t
+Para jugar puedes usar las tarjetas que se encuentran en 2 archivos de muestra dentro del directorio de tarjetas (12 en total), en caso de querer nuevas tarjetas, el script tambien tiene una opcion para generar nuevas con numeros aleatorios, para esto hay que ejecutar el mismo archivo pero con el argumento -t
 
     python3 bingo.py -t
 
